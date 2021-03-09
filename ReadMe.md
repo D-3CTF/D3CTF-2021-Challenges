@@ -22,7 +22,7 @@
 | Pwn      | deterministic heap    | Aris           | todo                                                           |
 | Pwn      | 狡兔三窟？            | sad            | todo                                                           |
 | Pwn      | hackphp               | SuperGate      | todo                                                           |
-| Pwn      | d3dev                 | eqqie          | todo                                                           |
+| Pwn      | d3dev(-revenge)       | eqqie          | https://github.com/yikesoftware/d3ctf-2021-pwn-d3dev                                                           |
 | Crypto   | babyLattice           | LurkNoi        | todo                                                           |
 | Crypto   | EasyCurve             | Shallow        | https://github.com/shal10w/d3ctf2021_EasyCurve                 |
 | Crypto   | AliceWantFlag         | Shallow        | https://github.com/shal10w/d3ctf2021_AliceWantFlag             |
