@@ -4,8 +4,8 @@
 
 | Category | Ttitle                | Author         | URL                                                            |
 | -------- | --------------------- | -------------- | -------------------------------------------------------------- |
-| Web      | real_cloud_storage1   | Li4n0          | todo                                                           |
-| Web      | real_cloud_storage2   | Li4n0          | todo                                                           |
+| Web      | real_cloud_storage1   | Li4n0          | https://github.com/Li4n0/My-CTF-Challenges/tree/master/D%5E3CTF2021_real_cloud|
+| Web      | real_cloud_storage2   | Li4n0          | https://github.com/Li4n0/My-CTF-Challenges/tree/master/D%5E3CTF2021_real_cloud|
 | Web      | 8-bit pub             | Kevin          | todo                                                           |
 | Web      | Pool_Calc             | Reclu3e        | todo                                                           |
 | Web      | shellgen              | Frank          | https://github.com/frankli0324/d3ctf-shellgen/tree/master/web  |
