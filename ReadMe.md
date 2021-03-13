@@ -27,7 +27,7 @@
 | Crypto   | EasyCurve             | Shallow        | https://github.com/shal10w/d3ctf2021_EasyCurve               |
 | Crypto   | AliceWantFlag         | Shallow        | https://github.com/shal10w/d3ctf2021_AliceWantFlag           |
 | Crypto   | simpleGroup           | LurkNoi        | todo                                                         |
-| Misc     | Robust                | ObjectNotFound | todo                                                         |
+| Misc     | Robust                | ObjectNotFound | https://github.com/zhouweitong3/d3ctf_Robust                 |
 | Misc     | easyQuantum           | ObjectNotFound | https://github.com/zhouweitong3/d3ctf_easyQuantum            |
 | Misc     | Virtual Love          | Ga1@xy         | todo                                                         |
 | Misc     | scientific calculator | Konge          | todo                                                         |
