@@ -20,7 +20,7 @@
 | Pwn      | Truth                 | Ch1p&y         | todo                                                         |
 | Pwn      | liproll               | SuperGate      | todo                                                         |
 | Pwn      | deterministic heap    | Aris           | todo                                                         |
-| Pwn      | 狡兔三窟？            | sad            | todo                                                         |
+| Pwn      | 狡兔三窟？            | sad            | https://github.com/sadmess/easy_cpp                           |
 | Pwn      | hackphp               | SuperGate      | todo                                                         |
 | Pwn      | d3dev(-revenge)       | eqqie          | https://github.com/yikesoftware/d3ctf-2021-pwn-d3dev         |
 | Crypto   | babyLattice           | LurkNoi        | https://gist.github.com/LurkNoi/c42dd9379f2070830f7d973f7862ef29  |
