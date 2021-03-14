@@ -17,7 +17,7 @@
 | Rev      | ancient               | HAPPY          | todo                                                         |
 | Rev      | No Name               | Lavender Tree  | todo                                                         |
 | Rev      | jumpjump              | Reverier       | todo                                                         |
-| Pwn      | Truth                 | Ch1p&y         | todo                                                         |
+| Pwn      | Truth                 | Ch1p&y         | https://github.com/ZhouZiY/hctf2021_pwn                      |
 | Pwn      | liproll               | SuperGate      | todo                                                         |
 | Pwn      | deterministic heap    | Aris           | todo                                                         |
 | Pwn      | 狡兔三窟？            | sad            | https://github.com/sadmess/easy_cpp                           |
