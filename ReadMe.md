@@ -19,11 +19,11 @@
 | Rev      | jumpjump              | Reverier       | todo                                                         |
 | Pwn      | Truth                 | Ch1p&y         | https://github.com/ZhouZiY/hctf2021_pwn                      |
 | Pwn      | liproll               | SuperGate      | https://github.com/UESuperGate/D3CTF-2021-Exploits           |
-| Pwn      | deterministic heap    | Aris           | todo                                                         |
-| Pwn      | 狡兔三窟？            | sad            | https://github.com/sadmess/easy_cpp                           |
+| Pwn      | deterministic heap    | Aris           | https://github.com/ArisXu/Deterministic-Heap                 |
+| Pwn      | 狡兔三窟？            | sad            | https://github.com/sadmess/easy_cpp                          |
 | Pwn      | hackphp               | SuperGate      | https://github.com/UESuperGate/D3CTF-2021-Exploits           |
 | Pwn      | d3dev(-revenge)       | eqqie          | https://github.com/yikesoftware/d3ctf-2021-pwn-d3dev         |
-| Crypto   | babyLattice           | LurkNoi        | https://gist.github.com/LurkNoi/c42dd9379f2070830f7d973f7862ef29  |
+| Crypto   | babyLattice           | LurkNoi        | https://gist.github.com/LurkNoi/c42dd9379f2070830f7d973f7862ef29 |
 | Crypto   | EasyCurve             | Shallow        | https://github.com/shal10w/d3ctf2021_EasyCurve               |
 | Crypto   | AliceWantFlag         | Shallow        | https://github.com/shal10w/d3ctf2021_AliceWantFlag           |
 | Crypto   | simpleGroup           | LurkNoi        | https://gist.github.com/LurkNoi/c42dd9379f2070830f7d973f7862ef29 |
