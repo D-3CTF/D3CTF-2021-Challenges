@@ -9,7 +9,7 @@
 | Web      | 8-bit pub             | Kevin          | todo                                                         |
 | Web      | Pool_Calc             | Reclu3e        | https://github.com/Reclu3e/MyCTFChallenges/tree/main/D3CTF2021/Pool_Calc |
 | Web      | shellgen              | Frank          | https://github.com/frankli0324/d3ctf-shellgen/tree/master/web |
-| Web      | Happy_Valentine's_Day | Neorah         | todo                                                         |
+| Web      | Happy_Valentine's_Day | Neorah         | https://github.com/Neorah/CTF-challenges/tree/master/D%5E3CTF_Happy_Valentine's_Day |
 | Web      | non RCE?              | 蚂蚁非攻       | todo                                                         |
 | Rev      | Zigzag Encryptor      | yype           | https://github.com/yype/ZigzagEncryptorPub                   |
 | Rev      | white give            | Y              | todo                                                         |
