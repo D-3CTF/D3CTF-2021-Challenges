@@ -30,7 +30,7 @@
 | Misc     | Robust                | ObjectNotFound | https://github.com/zhouweitong3/d3ctf_Robust                 |
 | Misc     | easyQuantum           | ObjectNotFound | https://github.com/zhouweitong3/d3ctf_easyQuantum            |
 | Misc     | Virtual Love          | Ga1@xy         | todo                                                         |
-| Misc     | scientific calculator | Konge          | todo                                                         |
+| Misc     | scientific calculator | zkonge         | https://github.com/zkonge/d3ctf-2021-scientific_calculator   |
 | Misc     | shellgen2             | Frank          | https://github.com/frankli0324/d3ctf-shellgen/tree/master/misc |
 | RW       | real_VMPWN            | 蚂蚁光年       | todo                                                         |
 | RW       | easy_chrome_fullchain | 蚂蚁光年       | todo                                                         |
