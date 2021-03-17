@@ -10,7 +10,7 @@
 | Web      | Pool_Calc             | Reclu3e        | https://github.com/Reclu3e/MyCTFChallenges/tree/main/D3CTF2021/Pool_Calc |
 | Web      | shellgen              | Frank          | https://github.com/frankli0324/d3ctf-shellgen/tree/master/web |
 | Web      | Happy_Valentine's_Day | Neorah         | https://github.com/Neorah/CTF-challenges/tree/master/D%5E3CTF_Happy_Valentine's_Day |
-| Web      | non RCE?              | 蚂蚁非攻       | todo                                                         |
+| Web      | non RCE?              | 蚂蚁非攻       | https://github.com/Ant-FG-Lab/non_RCE                                                         |
 | Rev      | Zigzag Encryptor      | yype           | https://github.com/yype/ZigzagEncryptorPub                   |
 | Rev      | white give            | Y              | todo                                                         |
 | Rev      | baby_spear            | vvv & r3no     | todo                                                         |
@@ -33,4 +33,4 @@
 | Misc     | scientific calculator | zkonge         | https://github.com/zkonge/d3ctf-2021-scientific_calculator   |
 | Misc     | shellgen2             | Frank          | https://github.com/frankli0324/d3ctf-shellgen/tree/master/misc |
 | RW       | real_VMPWN            | 蚂蚁光年       | todo                                                         |
-| RW       | easy_chrome_fullchain | 蚂蚁光年       | todo                                                         |
+| RW       | easy_chrome_fullchain | 蚂蚁光年       | https://mega.nz/file/1zAERJ5R#M0R_7PAJhIailzqrYKTY-CR36F8J2vX6AYbVML0AHy4|
