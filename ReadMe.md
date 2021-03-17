@@ -6,7 +6,7 @@
 | -------- | --------------------- | -------------- | ------------------------------------------------------------ |
 | Web      | real_cloud_storage1   | Li4n0          | https://github.com/Li4n0/My-CTF-Challenges/tree/master/D%5E3CTF2021_real_cloud |
 | Web      | real_cloud_storage2   | Li4n0          | https://github.com/Li4n0/My-CTF-Challenges/tree/master/D%5E3CTF2021_real_cloud |
-| Web      | 8-bit pub             | Kevin          | todo                                                         |
+| Web      | 8-bit pub             | Kevin          | https://github.com/crumbledwall/CTFChallenges/tree/main/D3CTF2021/8-bit_pub |
 | Web      | Pool_Calc             | Reclu3e        | https://github.com/Reclu3e/MyCTFChallenges/tree/main/D3CTF2021/Pool_Calc |
 | Web      | shellgen              | Frank          | https://github.com/frankli0324/d3ctf-shellgen/tree/master/web |
 | Web      | Happy_Valentine's_Day | Neorah         | https://github.com/Neorah/CTF-challenges/tree/master/D%5E3CTF_Happy_Valentine's_Day |
